@@ -1,0 +1,5 @@
+name: FurnitureAddon
+author: cannoli_cat
+version: '${project.version}'
+main: cannolicat.furnitureaddon.FurnitureAddon
+api-version: '1.20'
