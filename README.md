@@ -1,2 +1,2 @@
 Adds variables to MythicCrucible furniture.
-Requires MythicMobs.
+Requires MythicMobs and MythicCrucible
